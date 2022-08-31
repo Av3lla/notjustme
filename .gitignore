@@ -1,0 +1,7 @@
+# pyinstaller builds
+build/
+dist/
+notjustme.spec
+
+# temp
+temp/
